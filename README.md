@@ -4,4 +4,4 @@ Proyecto de Objeto Virtual de Aprendizaje (OVA) para la inclusión de material d
 
 Este repositorio fue creado para la versión OVA V12 en adelante. El proyecto es realizado bajo la plataforma Adobe Animate. 
 
-(https://github.com/juandmantilla/OVA-IPRED/blob/master/images/README1.png?raw=true)
+![Imagen principal OVA](https://github.com/juandmantilla/OVA-IPRED/blob/master/images/README1.png?raw=true)
